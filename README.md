@@ -1,19 +1,19 @@
 # nodeschool
 Nodejs Practice from http://nodeschool.io/
 
-# javascript
+# [DONE] javascript
 > npm install -g javascripting
 
 Learn to use promises in JavaScript to handle async operations.
 
 
-# promise-it-wont-hurt
+# [DONE] promise-it-wont-hurt
 > npm install -g promise-it-wont-hurt
 
 Learn to use promises in JavaScript to handle async operations.
 
 
-# async-you
+# [DOING] async-you
 > npm install async-you -g
 
 Learn to use the async package.
