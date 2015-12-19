@@ -25,13 +25,13 @@ Learn to use the async package.
 Learn the basics of the Express.js framework.
 
 
-# [DOING] test-anything
-> sudo npm install test-anything -g
+# [DONE] test-anything
+> npm install test-anything -g
 
 Learn to test your code
 
 
-# tower-of-babel
+# [DOING] tower-of-babel
 > npm install tower-of-babel -g
 
 Show you through a series of exercises that introduce you to ES6 features.
