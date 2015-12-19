@@ -13,13 +13,13 @@ Learn to use promises in JavaScript to handle async operations.
 Learn to use promises in JavaScript to handle async operations.
 
 
-# [DOING] async-you
+# [DONE] async-you
 > npm install async-you -g
 
 Learn to use the async package.
 
 
-# expressworks
+# [DOING] expressworks
 > npm install -g expressworks
 
 Learn the basics of the Express.js framework.
