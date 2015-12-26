@@ -31,13 +31,13 @@ Learn the basics of the Express.js framework.
 Learn to test your code
 
 
-# [DOING] tower-of-babel
+# [DONE] tower-of-babel
 > npm install tower-of-babel -g
 
 Show you through a series of exercises that introduce you to ES6 features.
 
 
-# count-to-6
+# [DOING] count-to-6
 > npm install -g count-to-6
 
 Learn how to use some features from ES6, the next version of JavaScript.
