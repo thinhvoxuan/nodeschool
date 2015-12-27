@@ -1,4 +1,12 @@
-var args = process.argv[2];
-var minFunction = function(...args){
+var args = process.argv.slice(2);
+var minFunction = function(...value){
+    var min = 10000;
+    value.forEach((x) => {
+        if  (x < min){
+            min = x;
+        }
+    });
+    return min;
+};
 
-}
+console.log(`The minimum of [${args}] is ${minFunction(args)}`);

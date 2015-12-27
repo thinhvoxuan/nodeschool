@@ -37,12 +37,12 @@ Learn to test your code
 Show you through a series of exercises that introduce you to ES6 features.
 
 
-# [DOING] count-to-6
+# [DONE] count-to-6
 > npm install -g count-to-6
 
 Learn how to use some features from ES6, the next version of JavaScript.
 
-# learn-generators
+# [DOING] learn-generators
 > npm install learn-generators -g
 
 An Intro to JavaScript ES6 Generators.
