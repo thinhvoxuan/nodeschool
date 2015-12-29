@@ -48,7 +48,7 @@ Learn how to use some features from ES6, the next version of JavaScript.
 An Intro to JavaScript ES6 Generators.
 
 
-# [DOING] learnyoureact
+# [DONE] learnyoureact
 > npm install -g learnyoureact
 
 Let's learn React.js and server side rendering!
